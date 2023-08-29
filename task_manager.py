@@ -1,10 +1,3 @@
-# """
-# Capstone template project for FCS Task 19 Compulsory task 1.
-# This template provides a skeleton code to start compulsory task 1 only.
-# Once you have successfully implemented compulsory task 1 it will be easier to
-# add a code for compulsory task 2 to complete this capstone
-# """
-
 # =====importing libraries===========
 # '''This is the section where you will import libraries'''
 import datetime
