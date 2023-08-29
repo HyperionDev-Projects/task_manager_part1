@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+userone, Maths Homework, Please take text book "A" and text book "B" to compare a calculus intergration method., 20 Jan 2023, 05 May 2023, No
+userseven, Buy Textbooks, Go online and shop for a variety of text books in the field of Mathematics - Physical sciences - Life Sciences - Python and Java Programming - Geography - and Local Languages., 28 Jan 2023, 05 Feb 2023, No
+usertwo, Learner Placement Inquiry, Call or visit local schools and enquire about a grade 11 learner's placement for the grade 12 academic year. Remember to take the most recent academic report with you., 28 Jan 2023, 01 Feb 2023, No
+userfour, Buy School Uniform, Shop online for a full (Summer to Winter) school unifrom., 28 Jan 2023, 03 Feb 2023, No
+userfive, Find Schoolar Transport, Ask around for a safe - reliable - and affordable transport for a grade 12 learner to and from school., 28 Jan 2023, 04 Feb 2023, No
+admin, Allocate Tasks to Usernine, Usernine was recently granted acces to the task_manager app. Currently usernine does not have any tasks assigned to them and are idling., 01 Feb 2023, 10 Feb 2023, No
